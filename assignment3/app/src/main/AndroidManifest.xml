@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="cat.tecnocampus.mobileapps.practica3.HomarMasachsFrancesc.meninoSuredaPau">
 
+    <uses-permission-sdk-23 android:name="android.permission.INTERNET"></uses-permission-sdk-23>
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
