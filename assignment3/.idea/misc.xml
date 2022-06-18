@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Repositorios/Java/assigment3-FhomarTCM/assignment3/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Repositorios/Java/assigment3-FhomarTCM/assignment3/app/src/main/res/layout-land/activity_main.xml" value="0.32671957671957674" />
+        <entry key="..\:/Repositorios/Java/assigment3-FhomarTCM/assignment3/app/src/main/res/layout-land/landscape_layout.xml" value="0.22" />
+        <entry key="..\:/Repositorios/Java/assigment3-FhomarTCM/assignment3/app/src/main/res/layout-land/layout_land.xml" value="0.33" />
+        <entry key="..\:/Repositorios/Java/assigment3-FhomarTCM/assignment3/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Repositorios/Java/assigment3-FhomarTCM/assignment3/app/src/main/res/layout/fragment_big_photo.xml" value="0.33" />
+        <entry key="..\:/Repositorios/Java/assigment3-FhomarTCM/assignment3/app/src/main/res/layout/fragment_blank.xml" value="0.38697916666666665" />
+        <entry key="..\:/Repositorios/Java/assigment3-FhomarTCM/assignment3/app/src/main/res/layout/fragment_layout.xml" value="0.25" />
+        <entry key="..\:/Repositorios/Java/assigment3-FhomarTCM/assignment3/app/src/main/res/layout/row_img.xml" value="0.33" />
       </map>
     </option>
   </component>

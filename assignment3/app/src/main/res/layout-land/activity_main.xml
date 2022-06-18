@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentPhoto"
+        android:name="cat.tecnocampus.mobileapps.practica3.HomarMasachsFrancesc.meninoSuredaPau.FragmentBigPhoto"
+        android:layout_width="233dp"
+        android:layout_height="match_parent" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentBigPhoto"
+        android:name="cat.tecnocampus.mobileapps.practica3.HomarMasachsFrancesc.meninoSuredaPau.FragmentPhoto"
+        android:layout_width="494dp"
+        android:layout_height="match_parent"
+        android:layout_marginStart="2dp"
+        android:layout_toEndOf="@+id/fragmentPhoto" />
+</RelativeLayout>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "15885054019",
+    "project_id": "practica-3-f5c9a",
+    "storage_bucket": "practica-3-f5c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15885054019:android:e330ced93f6c12816ba4f6",
+        "android_client_info": {
+          "package_name": "cat.tecnocampus.mobileapps.practica3.HomarMasachsFrancesc.MeninoSuredaPau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15885054019-ib59nr1b06pvqt091rt0feh82mr9lrk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbeQ8vXA86e_qKiRub8ylTmXWFwNDmy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15885054019-ib59nr1b06pvqt091rt0feh82mr9lrk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15885054019:android:d0467619ef935db56ba4f6",
+        "android_client_info": {
+          "package_name": "cat.tecnocampus.mobileapps.practica3.HomarMasachsFrancesc.meninoSuredaPau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15885054019-ib59nr1b06pvqt091rt0feh82mr9lrk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbeQ8vXA86e_qKiRub8ylTmXWFwNDmy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15885054019-ib59nr1b06pvqt091rt0feh82mr9lrk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
